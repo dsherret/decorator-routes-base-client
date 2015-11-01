@@ -1,0 +1,29 @@
+{
+  "name": "decorator-routes-base-client",
+  "version": "0.0.1",
+  "description": "0.0.1",
+  "main": "dist/base-client.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsherret/decorator-routes-base-client.git"
+  },
+  "keywords": [
+    "decorators",
+    "typescript",
+    "routes"
+  ],
+  "author": "David Sherret",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsherret/decorator-routes-base-client/issues"
+  },
+  "homepage": "https://github.com/dsherret/decorator-routes-base-client#readme",
+  "typescript": {
+      "definition": "decorator-routes-base-client.d.ts"
+  },
+  "dependencies": {
+  }
+}
