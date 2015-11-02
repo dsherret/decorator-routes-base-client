@@ -3,5 +3,5 @@ export abstract class BaseClient {
     }
 
     protected abstract get<ReturnType>(url: string, args?: Object): Promise<ReturnType>;
-    protected abstract post<SendType, ReturnType>(url: string, sendObj: SendType, args?: Object): Promise<ReturnType>;
+    protected abstract post<ReturnType>(url: string, sendObj: any, args?: Object): Promise<ReturnType>;
 }
