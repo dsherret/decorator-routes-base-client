@@ -1,7 +1,7 @@
 {
   "name": "decorator-routes-base-client",
-  "version": "0.0.1",
-  "description": "0.0.1",
+  "version": "0.1.0",
+  "description": "The base for decorator route clients.",
   "main": "dist/main.js",
   "scripts": {
     "build": "tsc"
