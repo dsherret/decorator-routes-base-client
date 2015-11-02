@@ -1,4 +1,4 @@
-declare module "decorator-routes-base-client" {
+declare module "server-bridge-base-client" {
     export abstract class BaseClient {
         protected baseUrl: string;
         constructor(baseUrl: string);

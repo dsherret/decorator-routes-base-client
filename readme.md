@@ -1,4 +1,4 @@
-decorator-routes-base-client
+server-bridge-base-client
 ============================
 
 Common base for all clients.

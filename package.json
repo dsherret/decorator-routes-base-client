@@ -1,14 +1,14 @@
 {
-  "name": "decorator-routes-base-client",
+  "name": "server-bridge-base-client",
   "version": "0.1.0",
-  "description": "The base for decorator route clients.",
+  "description": "The base for server-bridge clients.",
   "main": "dist/main.js",
   "scripts": {
     "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsherret/decorator-routes-base-client.git"
+    "url": "git+https://github.com/dsherret/server-bridge-base-client.git"
   },
   "keywords": [
     "decorators",
@@ -18,11 +18,11 @@
   "author": "David Sherret",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dsherret/decorator-routes-base-client/issues"
+    "url": "https://github.com/dsherret/server-bridge-base-client/issues"
   },
-  "homepage": "https://github.com/dsherret/decorator-routes-base-client#readme",
+  "homepage": "https://github.com/dsherret/server-bridge-base-client#readme",
   "typescript": {
-      "definition": "decorator-routes-base-client.d.ts"
+      "definition": "server-bridge-base-client.d.ts"
   },
   "dependencies": {
   }
