@@ -12,6 +12,6 @@
     "files": [
         "src/main.ts",
         "src/base-client.ts",
-        "src/typings/tsd.d.ts"
+        "src/typings/main.d.ts"
     ]
 }
