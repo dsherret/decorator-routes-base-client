@@ -1,8 +1,9 @@
 {
   "name": "server-bridge-base-client",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The base for server-bridge clients.",
   "main": "dist/main.js",
+  "typings": "server-bridge-base-client.d.ts",
   "scripts": {
     "build": "tsc"
   },

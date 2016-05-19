@@ -7,11 +7,7 @@
         "removeComments": true,
         "experimentalDecorators": true,
         "outDir": "dist",
-        "sourceMap": false
-    },
-    "files": [
-        "src/main.ts",
-        "src/base-client.ts",
-        "src/typings/main.d.ts"
-    ]
+        "sourceMap": false,
+        "rootDir": "src"
+    }
 }

@@ -2,7 +2,10 @@
   "name": "server-bridge-base-client",
   "version": false,
   "main": "server-bridge-base-client.d.ts",
-  "ambientDependencies": {
+  "resolution": {
+      "main": "src/typings"
+  },
+  "globalDependencies": {
     "es6-promise": "github:DefinitelyTyped/DefinitelyTyped/es6-promise/es6-promise.d.ts#a59efa21a25762f86bef315be08f2d8b0385e210"
   }
 }
